@@ -32,7 +32,7 @@ const users = results[0];
 
 ## Options
 
-todo
+See `mysql` connection options (https://www.npmjs.com/package/mysql#connection-options)
 
 ## Licences
 

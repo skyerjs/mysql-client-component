@@ -1,6 +1,6 @@
 {
   "name": "skyer-mysql-client-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skyer mysql client component",
   "main": "index.js",
   "scripts": {
