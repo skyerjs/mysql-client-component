@@ -1,0 +1,28 @@
+{
+  "name": "skyer-mysql-client-component",
+  "version": "0.1.0",
+  "description": "Skyer mysql client component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/skyer-mysql-client-component.git"
+  },
+  "keywords": [
+    "skyer",
+    "component",
+    "mysql",
+    "client"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/skyer-mysql-client-component/issues"
+  },
+  "homepage": "https://github.com/skyerjs/skyer-mysql-client-component#readme",
+  "dependencies": {
+    "mysql-client-pool": "^0.1.0"
+  }
+}
