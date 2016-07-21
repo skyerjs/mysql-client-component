@@ -32,7 +32,11 @@ const users = results[0];
 
 ## Options
 
-See `mysql` connection options (https://www.npmjs.com/package/mysql#connection-options)
+See `mysql` [connection options](https://www.npmjs.com/package/mysql#connection-options)
+
+## Example
+
+See [skyer-example](https://github.com/skyerjs/skyer-example)
 
 ## Licences
 
